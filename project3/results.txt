@@ -1,0 +1,6 @@
+	Barbarian	Vampire	Harry Potter	Blue Men	Medusa	
+Barbarian	0	0	0	0	0	
+Vampire	0	0	0	0	4	
+Harry Potter	0	0	0	0	1	
+Blue Men	0	0	0	30	26	
+Medusa	4	2	0	4	1	

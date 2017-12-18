@@ -1,0 +1,51 @@
+PACK TESTS
+
+
+
+
+TEST 1: Add items and print successfully
+
+	:::BAG:::
+
+      Item       Qty
+===============================
+
+      Eggs        20
+      Milk        88
+
+
+TEST 2: Remove items and print successfully
+
+	:::BAG:::
+
+      Item       Qty
+===============================
+
+      Eggs        10
+      Milk        88
+
+
+TEST 3: If quantity <= 0, remove item from pack 
+
+	:::BAG:::
+
+      Item       Qty
+===============================
+
+      Milk        88
+
+
+TEST 4: Add to pre-existing item and increase qty 
+
+	:::BAG:::
+
+      Item       Qty
+===============================
+
+      Milk       188
+
+
+TEST 5: repeat TEST 3 and check that pack is now empty 
+
+The Pack is empty!
+

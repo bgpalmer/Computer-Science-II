@@ -1,0 +1,1097 @@
+Player 1, choose your monsters!
+Monster 1: 
+
+	:::Creatures:::
+
+1)  Barbarian
+2)  Blue Men
+3)  Harry Potter
+4)  Medusa
+5)  Vampire
+ >> Monster 2: 
+
+	:::Creatures:::
+
+1)  Barbarian
+2)  Blue Men
+3)  Harry Potter
+4)  Medusa
+5)  Vampire
+ >> Monster 3: 
+
+	:::Creatures:::
+
+1)  Barbarian
+2)  Blue Men
+3)  Harry Potter
+4)  Medusa
+5)  Vampire
+ >> Monster 4: 
+
+	:::Creatures:::
+
+1)  Barbarian
+2)  Blue Men
+3)  Harry Potter
+4)  Medusa
+5)  Vampire
+ >> Monster 5: 
+
+	:::Creatures:::
+
+1)  Barbarian
+2)  Blue Men
+3)  Harry Potter
+4)  Medusa
+5)  Vampire
+ >> Preparing computer player's lineup..1..2..3..4..5..done!
+
+
+-------------------------------------------------------------
+Battle 1: Medusa vs. Blue Men
+
+Blue Men attacks!
+	Blue Men rolls a 6!
+	Blue Men rolls a 5!
+	Total attack is 11!
+Medusa tries to defend itself/himself!
+	 Rolls a 2!
+	Total defense is 2!
+Medusa puts up a defense, reducing attack to 9(9)
+Medusa is wearing armor (3), which reduces the attack to 6(6)
+Medusa loses 6 strength points!
+Medusa takes 6 damage and has 2 left.
+Medusa attacks!
+	Medusa rolls a 2!
+	Medusa rolls a 6!
+	Total attack is 8!
+Blue Men roll 1 die...
+	Rolls a 1!
+	Total defense is 1!
+Blue Men puts up a defense, reducing attack to 7(7)
+Blue Men is wearing armor (3), which reduces the attack to 4(4)
+Blue Men loses 4 strength points!
+Blue Men takes 4 damage and has 8 left.
+Blue Men attacks!
+	Blue Men rolls a 1!
+	Blue Men rolls a 4!
+	Total attack is 5!
+Medusa tries to defend itself/himself!
+	 Rolls a 3!
+	Total defense is 3!
+Medusa puts up a defense, reducing attack to 2(2)
+Medusa is wearing armor (3), which reduces the attack to 0(-1)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 2 left.
+Medusa attacks!
+	Medusa rolls a 1!
+	Medusa rolls a 6!
+	Total attack is 7!
+Blue Men roll 2 die...
+	Rolls a 5!
+	Rolls a 2!
+	Total defense is 7!
+Blue Men puts up a defense, reducing attack to 0(0)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 8 left.
+Blue Men attacks!
+	Blue Men rolls a 1!
+	Blue Men rolls a 8!
+	Total attack is 9!
+Medusa tries to defend itself/himself!
+	 Rolls a 4!
+	Total defense is 4!
+Medusa puts up a defense, reducing attack to 5(5)
+Medusa is wearing armor (3), which reduces the attack to 2(2)
+Medusa loses 2 strength points!
+Medusa takes 2 damage and has 0 left.
+Blue Menheals a little, and now has 11 strength points
+
+
+ WINNER: Player 2's Blue Men
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 2: Harry Potter vs. Blue Men
+
+Blue Men attacks!
+	Blue Men rolls a 6!
+	Blue Men rolls a 4!
+	Total attack is 10!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 3!
+	Total defense is 9!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 9 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 3!
+	Total attack is 4!
+Blue Men roll 2 die...
+	Rolls a 3!
+	Rolls a 2!
+	Total defense is 5!
+Blue Men puts up a defense, reducing attack to 0(-1)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 8!
+	Blue Men rolls a 7!
+	Total attack is 15!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 4!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 10(10)
+Harry Potter is wearing armor (0), which reduces the attack to 10(10)
+Harry Potter loses 10 strength points!
+Harry Potter takes 10 damage and has 0 strength points left.
+HOGWARTS has Harry Potter's back! He is REVIVED and has 20 strength points!
+Harry Potter attacks!
+	Harry Potter rolls a 3!
+	Harry Potter rolls a 1!
+	Total attack is 4!
+Blue Men roll 2 die...
+	Rolls a 3!
+	Rolls a 6!
+	Total defense is 9!
+Blue Men puts up a defense, reducing attack to 0(-5)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 8!
+	Blue Men rolls a 3!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 6!
+	Total defense is 9!
+Harry Potter puts up a defense, reducing attack to 2(2)
+Harry Potter is wearing armor (0), which reduces the attack to 2(2)
+Harry Potter loses 2 strength points!
+Harry Potter takes 2 damage and has 18 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 3!
+	Harry Potter rolls a 4!
+	Total attack is 7!
+Blue Men roll 2 die...
+	Rolls a 6!
+	Rolls a 4!
+	Total defense is 10!
+Blue Men puts up a defense, reducing attack to 0(-3)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 1!
+	Blue Men rolls a 7!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 1!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 2(2)
+Harry Potter is wearing armor (0), which reduces the attack to 2(2)
+Harry Potter loses 2 strength points!
+Harry Potter takes 2 damage and has 16 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 1!
+	Total attack is 3!
+Blue Men roll 3 die...
+	Rolls a 5!
+	Rolls a 6!
+	Rolls a 2!
+	Total defense is 13!
+Blue Men puts up a defense, reducing attack to 0(-10)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 10!
+	Blue Men rolls a 1!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 5!
+	Total defense is 11!
+Harry Potter puts up a defense, reducing attack to 0(0)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 16 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 3!
+	Harry Potter rolls a 5!
+	Total attack is 8!
+Blue Men roll 1 die...
+	Rolls a 5!
+	Total defense is 5!
+Blue Men puts up a defense, reducing attack to 3(3)
+Blue Men is wearing armor (3), which reduces the attack to 0(0)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 10!
+	Blue Men rolls a 4!
+	Total attack is 14!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 5!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 7(7)
+Harry Potter is wearing armor (0), which reduces the attack to 7(7)
+Harry Potter loses 7 strength points!
+Harry Potter takes 7 damage and has 9 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Blue Men roll 1 die...
+	Rolls a 6!
+	Total defense is 6!
+Blue Men puts up a defense, reducing attack to 5(5)
+Blue Men is wearing armor (3), which reduces the attack to 2(2)
+Blue Men loses 2 strength points!
+Blue Men takes 2 damage and has 10 left.
+Blue Men attacks!
+	Blue Men rolls a 9!
+	Blue Men rolls a 4!
+	Total attack is 13!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 1!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 6(6)
+Harry Potter is wearing armor (0), which reduces the attack to 6(6)
+Harry Potter loses 6 strength points!
+Harry Potter takes 6 damage and has 3 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Blue Men roll 1 die...
+	Rolls a 4!
+	Total defense is 4!
+Blue Men puts up a defense, reducing attack to 7(7)
+Blue Men is wearing armor (3), which reduces the attack to 4(4)
+Blue Men loses 4 strength points!
+Blue Men takes 4 damage and has 6 left.
+Blue Men attacks!
+	Blue Men rolls a 4!
+	Blue Men rolls a 5!
+	Total attack is 9!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 2!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 4(4)
+Harry Potter is wearing armor (0), which reduces the attack to 4(4)
+Harry Potter loses 4 strength points!
+Harry Potter takes 4 damage and has 0 strength points left.
+Blue Menheals a little, and now has 9 strength points
+
+
+ WINNER: Player 2's Blue Men
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 3: Blue Men vs. Blue Men
+
+Blue Men attacks!
+	Blue Men rolls a 8!
+	Blue Men rolls a 4!
+	Total attack is 12!
+Blue Men roll 0 die...
+	Total defense is 0!
+Blue Men puts up a defense, reducing attack to 12(12)
+Blue Men is wearing armor (3), which reduces the attack to 9(9)
+Blue Men loses 9 strength points!
+Blue Men takes 9 damage and has 3 left.
+Blue Men attacks!
+	Blue Men rolls a 5!
+	Blue Men rolls a 2!
+	Total attack is 7!
+Blue Men roll 2 die...
+	Rolls a 5!
+	Rolls a 3!
+	Total defense is 8!
+Blue Men puts up a defense, reducing attack to 0(-1)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 4!
+	Blue Men rolls a 1!
+	Total attack is 5!
+Blue Men roll 2 die...
+	Rolls a 1!
+	Rolls a 1!
+	Total defense is 2!
+Blue Men puts up a defense, reducing attack to 3(3)
+Blue Men is wearing armor (3), which reduces the attack to 0(0)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 3 left.
+Blue Men attacks!
+	Blue Men rolls a 3!
+	Blue Men rolls a 4!
+	Total attack is 7!
+Blue Men roll 2 die...
+	Rolls a 2!
+	Rolls a 4!
+	Total defense is 6!
+Blue Men puts up a defense, reducing attack to 1(1)
+Blue Men is wearing armor (3), which reduces the attack to 0(-2)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 12 left.
+Blue Men attacks!
+	Blue Men rolls a 2!
+	Blue Men rolls a 10!
+	Total attack is 12!
+Blue Men roll 0 die...
+	Total defense is 0!
+Blue Men puts up a defense, reducing attack to 12(12)
+Blue Men is wearing armor (3), which reduces the attack to 9(9)
+Blue Men loses 9 strength points!
+Blue Men takes 9 damage and has 0 left.
+Blue Menheals a little, and now has 15 strength points
+
+
+ WINNER: Player 2's Blue Men
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 4: Harry Potter vs. Harry Potter
+
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 1!
+	Total attack is 3!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 4!
+	 Rolls a 4!
+	Total defense is 8!
+Harry Potter puts up a defense, reducing attack to 0(-5)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 10 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 5!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 1!
+	Total defense is 4!
+Harry Potter puts up a defense, reducing attack to 3(3)
+Harry Potter is wearing armor (0), which reduces the attack to 3(3)
+Harry Potter loses 3 strength points!
+Harry Potter takes 3 damage and has 7 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 4!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 4!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 9 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 3!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 6!
+	Total defense is 8!
+Harry Potter puts up a defense, reducing attack to 0(-1)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 7 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 5!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 4!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 8 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 2!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 1!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 6 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 5!
+	Total attack is 9!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 4!
+	 Rolls a 2!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 3(3)
+Harry Potter is wearing armor (0), which reduces the attack to 3(3)
+Harry Potter loses 3 strength points!
+Harry Potter takes 3 damage and has 5 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 5!
+	Total attack is 10!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 4!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 3(3)
+Harry Potter is wearing armor (0), which reduces the attack to 3(3)
+Harry Potter loses 3 strength points!
+Harry Potter takes 3 damage and has 3 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 1!
+	Total defense is 2!
+Harry Potter puts up a defense, reducing attack to 9(9)
+Harry Potter is wearing armor (0), which reduces the attack to 9(9)
+Harry Potter loses 9 strength points!
+Harry Potter takes 9 damage and has 0 strength points left.
+HOGWARTS has Harry Potter's back! He is REVIVED and has 20 strength points!
+Harry Potter attacks!
+	Harry Potter rolls a 6!
+	Harry Potter rolls a 1!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 4!
+	 Rolls a 5!
+	Total defense is 9!
+Harry Potter puts up a defense, reducing attack to 0(-2)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 3 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 3!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 2!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 5!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 5(5)
+Harry Potter is wearing armor (0), which reduces the attack to 5(5)
+Harry Potter loses 5 strength points!
+Harry Potter takes 5 damage and has 0 strength points left.
+HOGWARTS has Harry Potter's back! He is REVIVED and has 20 strength points!
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 1!
+	Total attack is 3!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 4!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 0(-2)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 3!
+	Harry Potter rolls a 1!
+	Total attack is 4!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 4!
+	 Rolls a 2!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 0(-2)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 20 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 3!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 5!
+	Total defense is 11!
+Harry Potter puts up a defense, reducing attack to 0(-4)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 6!
+	Harry Potter rolls a 5!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 5!
+	Total defense is 10!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 1!
+	Total attack is 6!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 4!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 0(0)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 1!
+	Total attack is 5!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 5!
+	Total defense is 10!
+Harry Potter puts up a defense, reducing attack to 0(-5)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 1!
+	Total attack is 2!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 1!
+	Total defense is 4!
+Harry Potter puts up a defense, reducing attack to 0(-2)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 2!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 2!
+	Total defense is 3!
+Harry Potter puts up a defense, reducing attack to 4(4)
+Harry Potter is wearing armor (0), which reduces the attack to 4(4)
+Harry Potter loses 4 strength points!
+Harry Potter takes 4 damage and has 15 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 2!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 5!
+	Total defense is 8!
+Harry Potter puts up a defense, reducing attack to 0(-1)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 19 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 4!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 1!
+	Total defense is 2!
+Harry Potter puts up a defense, reducing attack to 6(6)
+Harry Potter is wearing armor (0), which reduces the attack to 6(6)
+Harry Potter loses 6 strength points!
+Harry Potter takes 6 damage and has 9 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 6!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 4(4)
+Harry Potter is wearing armor (0), which reduces the attack to 4(4)
+Harry Potter loses 4 strength points!
+Harry Potter takes 4 damage and has 15 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 3!
+	Harry Potter rolls a 4!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 3!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 2(2)
+Harry Potter is wearing armor (0), which reduces the attack to 2(2)
+Harry Potter loses 2 strength points!
+Harry Potter takes 2 damage and has 7 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 5!
+	Total attack is 6!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 4!
+	 Rolls a 6!
+	Total defense is 10!
+Harry Potter puts up a defense, reducing attack to 0(-4)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 15 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 1!
+	Total attack is 6!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 4!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 1(1)
+Harry Potter is wearing armor (0), which reduces the attack to 1(1)
+Harry Potter loses 1 strength points!
+Harry Potter takes 1 damage and has 6 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 4!
+	Harry Potter rolls a 5!
+	Total attack is 9!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 1!
+	Total defense is 4!
+Harry Potter puts up a defense, reducing attack to 5(5)
+Harry Potter is wearing armor (0), which reduces the attack to 5(5)
+Harry Potter loses 5 strength points!
+Harry Potter takes 5 damage and has 10 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 2!
+	Harry Potter rolls a 5!
+	Total attack is 7!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 2!
+	 Rolls a 1!
+	Total defense is 3!
+Harry Potter puts up a defense, reducing attack to 4(4)
+Harry Potter is wearing armor (0), which reduces the attack to 4(4)
+Harry Potter loses 4 strength points!
+Harry Potter takes 4 damage and has 2 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 3!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 3!
+	Total defense is 8!
+Harry Potter puts up a defense, reducing attack to 0(0)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 10 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 6!
+	Harry Potter rolls a 4!
+	Total attack is 10!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 5!
+	Total defense is 8!
+Harry Potter puts up a defense, reducing attack to 2(2)
+Harry Potter is wearing armor (0), which reduces the attack to 2(2)
+Harry Potter loses 2 strength points!
+Harry Potter takes 2 damage and has 0 strength points left.
+Harry Potterheals a little, and now has 12 strength points
+
+
+ WINNER: Player 1's Harry Potter
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 5: Medusa vs. Medusa
+
+Medusa attacks!
+	Medusa rolls a 2!
+	Medusa rolls a 5!
+	Total attack is 7!
+Medusa tries to defend itself/himself!
+	 Rolls a 3!
+	Total defense is 3!
+Medusa puts up a defense, reducing attack to 4(4)
+Medusa is wearing armor (3), which reduces the attack to 1(1)
+Medusa loses 1 strength points!
+Medusa takes 1 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 3!
+	Medusa rolls a 3!
+	Total attack is 6!
+Medusa tries to defend itself/himself!
+	 Rolls a 6!
+	Total defense is 6!
+Medusa puts up a defense, reducing attack to 0(0)
+Medusa is wearing armor (3), which reduces the attack to 0(-3)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 8 left.
+Medusa attacks!
+	Medusa rolls a 2!
+	Medusa rolls a 2!
+	Total attack is 4!
+Medusa tries to defend itself/himself!
+	 Rolls a 2!
+	Total defense is 2!
+Medusa puts up a defense, reducing attack to 2(2)
+Medusa is wearing armor (3), which reduces the attack to 0(-1)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 3!
+	Medusa rolls a 5!
+	Total attack is 8!
+Medusa tries to defend itself/himself!
+	 Rolls a 5!
+	Total defense is 5!
+Medusa puts up a defense, reducing attack to 3(3)
+Medusa is wearing armor (3), which reduces the attack to 0(0)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 8 left.
+Medusa attacks!
+	Medusa rolls a 3!
+	Medusa rolls a 3!
+	Total attack is 6!
+Medusa tries to defend itself/himself!
+	 Rolls a 5!
+	Total defense is 5!
+Medusa puts up a defense, reducing attack to 1(1)
+Medusa is wearing armor (3), which reduces the attack to 0(-2)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 2!
+	Medusa rolls a 1!
+	Total attack is 3!
+Medusa tries to defend itself/himself!
+	 Rolls a 6!
+	Total defense is 6!
+Medusa puts up a defense, reducing attack to 0(-3)
+Medusa is wearing armor (3), which reduces the attack to 0(-3)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 8 left.
+Medusa attacks!
+	Medusa rolls a 1!
+	Medusa rolls a 2!
+	Total attack is 3!
+Medusa tries to defend itself/himself!
+	 Rolls a 5!
+	Total defense is 5!
+Medusa puts up a defense, reducing attack to 0(-2)
+Medusa is wearing armor (3), which reduces the attack to 0(-3)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 1!
+	Medusa rolls a 1!
+	Total attack is 2!
+Medusa tries to defend itself/himself!
+	 Rolls a 5!
+	Total defense is 5!
+Medusa puts up a defense, reducing attack to 0(-3)
+Medusa is wearing armor (3), which reduces the attack to 0(-3)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 8 left.
+Medusa attacks!
+	Medusa rolls a 2!
+	Medusa rolls a 4!
+	Total attack is 6!
+Medusa tries to defend itself/himself!
+	 Rolls a 1!
+	Total defense is 1!
+Medusa puts up a defense, reducing attack to 5(5)
+Medusa is wearing armor (3), which reduces the attack to 2(2)
+Medusa loses 2 strength points!
+Medusa takes 2 damage and has 5 left.
+Medusa attacks!
+	Medusa rolls a 3!
+	Medusa rolls a 5!
+	Total attack is 8!
+Medusa tries to defend itself/himself!
+	 Rolls a 4!
+	Total defense is 4!
+Medusa puts up a defense, reducing attack to 4(4)
+Medusa is wearing armor (3), which reduces the attack to 1(1)
+Medusa loses 1 strength points!
+Medusa takes 1 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 6!
+	Medusa rolls a 3!
+	Total attack is 9!
+Medusa tries to defend itself/himself!
+	 Rolls a 4!
+	Total defense is 4!
+Medusa puts up a defense, reducing attack to 5(5)
+Medusa is wearing armor (3), which reduces the attack to 2(2)
+Medusa loses 2 strength points!
+Medusa takes 2 damage and has 3 left.
+Medusa attacks!
+	Medusa rolls a 6!
+	Medusa rolls a 2!
+	Total attack is 8!
+Medusa tries to defend itself/himself!
+	 Rolls a 5!
+	Total defense is 5!
+Medusa puts up a defense, reducing attack to 3(3)
+Medusa is wearing armor (3), which reduces the attack to 0(0)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 5!
+	Medusa rolls a 1!
+	Total attack is 6!
+Medusa tries to defend itself/himself!
+	 Rolls a 1!
+	Total defense is 1!
+Medusa puts up a defense, reducing attack to 5(5)
+Medusa is wearing armor (3), which reduces the attack to 2(2)
+Medusa loses 2 strength points!
+Medusa takes 2 damage and has 1 left.
+Medusa attacks!
+	Medusa rolls a 5!
+	Medusa rolls a 3!
+	Total attack is 8!
+Medusa tries to defend itself/himself!
+	 Rolls a 6!
+	Total defense is 6!
+Medusa puts up a defense, reducing attack to 2(2)
+Medusa is wearing armor (3), which reduces the attack to 0(-1)
+Medusa loses 0 strength points!
+Medusa takes 0 damage and has 7 left.
+Medusa attacks!
+	Medusa rolls a 6!
+	Medusa rolls a 2!
+	Total attack is 8!
+Medusa tries to defend itself/himself!
+	 Rolls a 4!
+	Total defense is 4!
+Medusa puts up a defense, reducing attack to 4(4)
+Medusa is wearing armor (3), which reduces the attack to 1(1)
+Medusa loses 1 strength points!
+Medusa takes 1 damage and has 0 left.
+Medusaheals a little, and now has 9 strength points
+
+
+ WINNER: Player 2's Medusa
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 6: Harry Potter vs. Blue Men
+
+Blue Men attacks!
+	Blue Men rolls a 9!
+	Blue Men rolls a 3!
+	Total attack is 12!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 2!
+	Total defense is 3!
+Harry Potter puts up a defense, reducing attack to 9(9)
+Harry Potter is wearing armor (0), which reduces the attack to 9(9)
+Harry Potter loses 9 strength points!
+Harry Potter takes 9 damage and has 3 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 6!
+	Harry Potter rolls a 5!
+	Total attack is 11!
+Blue Men roll 1 die...
+	Rolls a 1!
+	Total defense is 1!
+Blue Men puts up a defense, reducing attack to 10(10)
+Blue Men is wearing armor (3), which reduces the attack to 7(7)
+Blue Men loses 7 strength points!
+Blue Men takes 7 damage and has 4 left.
+Blue Men attacks!
+	Blue Men rolls a 4!
+	Blue Men rolls a 1!
+	Total attack is 5!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 1!
+	 Rolls a 5!
+	Total defense is 6!
+Harry Potter puts up a defense, reducing attack to 0(-1)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 3 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 5!
+	Harry Potter rolls a 6!
+	Total attack is 11!
+Blue Men roll 1 die...
+	Rolls a 3!
+	Total defense is 3!
+Blue Men puts up a defense, reducing attack to 8(8)
+Blue Men is wearing armor (3), which reduces the attack to 5(5)
+Blue Men loses 5 strength points!
+Blue Men takes 5 damage and has 0 left.
+Harry Potterheals a little, and now has 5 strength points
+
+
+ WINNER: Player 1's Harry Potter
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+
+-------------------------------------------------------------
+Battle 7: Harry Potter vs. Blue Men
+
+Blue Men attacks!
+	Blue Men rolls a 6!
+	Blue Men rolls a 2!
+	Total attack is 8!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 4!
+	Total defense is 10!
+Harry Potter puts up a defense, reducing attack to 0(-2)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 5 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 6!
+	Total attack is 7!
+Blue Men roll 2 die...
+	Rolls a 6!
+	Rolls a 4!
+	Total defense is 10!
+Blue Men puts up a defense, reducing attack to 0(-3)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 9 left.
+Blue Men attacks!
+	Blue Men rolls a 4!
+	Blue Men rolls a 5!
+	Total attack is 9!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 5!
+	 Rolls a 5!
+	Total defense is 10!
+Harry Potter puts up a defense, reducing attack to 0(-1)
+Harry Potter is wearing armor (0), which reduces the attack to 0(0)
+Harry Potter loses 0 strength points!
+Harry Potter takes 0 damage and has 5 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 5!
+	Total attack is 6!
+Blue Men roll 2 die...
+	Rolls a 4!
+	Rolls a 5!
+	Total defense is 9!
+Blue Men puts up a defense, reducing attack to 0(-3)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 9 left.
+Blue Men attacks!
+	Blue Men rolls a 3!
+	Blue Men rolls a 8!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 6!
+	 Rolls a 1!
+	Total defense is 7!
+Harry Potter puts up a defense, reducing attack to 4(4)
+Harry Potter is wearing armor (0), which reduces the attack to 4(4)
+Harry Potter loses 4 strength points!
+Harry Potter takes 4 damage and has 1 strength points left.
+Harry Potter attacks!
+	Harry Potter rolls a 1!
+	Harry Potter rolls a 3!
+	Total attack is 4!
+Blue Men roll 2 die...
+	Rolls a 5!
+	Rolls a 2!
+	Total defense is 7!
+Blue Men puts up a defense, reducing attack to 0(-3)
+Blue Men is wearing armor (3), which reduces the attack to 0(-3)
+Blue Men loses 0 strength points!
+Blue Men takes 0 damage and has 9 left.
+Blue Men attacks!
+	Blue Men rolls a 4!
+	Blue Men rolls a 7!
+	Total attack is 11!
+Harry Potter tries to defend itself/himself!
+	 Rolls a 3!
+	 Rolls a 2!
+	Total defense is 5!
+Harry Potter puts up a defense, reducing attack to 6(6)
+Harry Potter is wearing armor (0), which reduces the attack to 6(6)
+Harry Potter loses 6 strength points!
+Harry Potter takes 6 damage and has 0 strength points left.
+Blue Menheals a little, and now has 12 strength points
+
+
+ WINNER: Player 2's Blue Men
+
+
+LINEUPS:
+
+player_1: 
+player_2: 
+:::GAME OVER:::
+
+Thanks for playing!

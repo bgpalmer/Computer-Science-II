@@ -1,0 +1,11 @@
+This program was created by Brian Palmer, November 20 2016
+
+To compile, type command:
+
+        make all
+
+in your terminal. Alternatively,
+
+        make run
+
+will compile and run the executable

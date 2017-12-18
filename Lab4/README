@@ -1,0 +1,5 @@
+This program was written by brian palmer, on September 20, 2016
+
+To run, open the zip file and make sure the file is your current working directory.
+Then, type "make all" to create the executable "prog". You can also type "make run" to create
+the executable and run it from one command.
